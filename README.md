@@ -7,8 +7,7 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td>![29](https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/2010_4_27_6_41_29.jpg)</td>
-    <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/2010_4_27_6_41_29.jpg" width="50" height="50" /> </td>
-    
+    <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/2010_4_27_6_41_29.jpg" width="239" height="384" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/2010_4_27_6_41_29.jpg.jpg" width="239" height="384" /> </td
   </tr>
 </table>
