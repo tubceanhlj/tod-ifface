@@ -1,7 +1,7 @@
 # tod-ifface
 淘然视界红外人脸数据
 <br>数据样例1：<br>
-<table border="1">
+<table>
   <tr>
     <th>原图</th>
     <th>标注样例</th>
