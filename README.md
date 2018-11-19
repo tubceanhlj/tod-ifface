@@ -21,7 +21,7 @@
 </table>
       
 <br>数据样例2：<br>
-<table border="1">
+<table>
   <tr>
      <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/46755871148608171890.jpg.jpg" width="100" height="200" /> </td>
      <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/46755871148656641390.jpg.jpg" width="100" height="200" /> </td>
