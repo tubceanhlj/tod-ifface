@@ -15,8 +15,8 @@
 <br>数据样例1（样例原图可以在imgs文件夹下找到）：<br>
 <table>
   <tr>
-    <th>原图</th>
-    <th>标注样例</th>
+    <th>打电话</th>
+    <th>抽烟</th>
   </tr>
   <tr>
     <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/1.jpg" width="239" height="384" /> </td>
