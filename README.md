@@ -30,6 +30,10 @@
     <td> <img src="https://github.com/tubceanhlj/tod-ifface/blob/master/imgs/14.jpg" width="480" height="270" /> </td>
   </tr>      
 </table>
+<table>
+  <tr>
+    <th>红外人脸-打电话</th>
+    <th>红外人脸-抽烟</th>
       
 备注：Tod Vision支持json格式标注结果，具体格式可参考COCO数据集格式<br> 
 如需数据订阅请联系淘然视界 TEL:0571-89189380<br> 
